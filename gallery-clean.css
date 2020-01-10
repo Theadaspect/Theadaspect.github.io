@@ -67,7 +67,7 @@ body {
      position: relative;
 }
 
-.thumbnail .iframe-container  iframe {
+.thumbnail .iframe-container iframe {
     position: absolute;
     top:0;
     left:0;

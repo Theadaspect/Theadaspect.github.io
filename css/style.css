@@ -189,7 +189,7 @@ ol {
 }
 
 .circle-progress .progress-info {
-	background: #f2f7f8;
+	background: #caaae6;
 	width: 127px;
 	height: 127px;
 	border-radius: 150px;
@@ -241,7 +241,7 @@ ol {
 	height: 300px;
 	display: table;
 	width: 100%;
-	background: #40424a;
+	background: #2c96ab;
 }
 
 .fact-box.trans {
@@ -391,7 +391,7 @@ ol {
 	Hero section
 -----------------------*/
 .hero-section {
-	background: #f2f7f8;
+	background: #f7a248;
 }
 
 .hero-text {
@@ -405,6 +405,7 @@ ol {
 }
 
 .hero-text p {
+	color: black;
 	font-size: 33px;
 	line-height: 1.3;
 }
@@ -421,9 +422,10 @@ ol {
 	list-style: none;
 }
 
+
 .hero-info ul li {
 	font-size: 24px;
-	color: #808181;
+	color: #0c0d0d;
 	margin-bottom: 15px;
 }
 
@@ -487,7 +489,7 @@ ol {
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
-	background-image: url(../img/resume-bg.jpg);
+	background: #f7a248;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -535,6 +537,7 @@ ol {
 
 .resume-list p {
 	margin-bottom: 0;
+	color: black;
 }
 
 /*---------------------
@@ -677,6 +680,8 @@ ol {
 .contact-form ::placeholder {
 	font-style: italic;
 }
+
+.
 
 /*---------------------
 	Footer section
