@@ -1,0 +1,13 @@
+.heading {
+  margin-right: 25px;
+  font-size: 2.3rem;
+  color: #656565;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: #f7a248;
+}
