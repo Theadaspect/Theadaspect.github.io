@@ -26,10 +26,6 @@ h6 {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-h2 {
-	font-size: 42px;
-}
-
 h3 {
 	font-size: 30px;
 }
@@ -538,6 +534,7 @@ ol {
 .resume-list p {
 	margin-bottom: 0;
 	color: black;
+	font-size : 25px;
 }
 
 /*---------------------
